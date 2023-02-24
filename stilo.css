@@ -1,0 +1,53 @@
+body{
+    text-align:center;
+    margin:0px;
+    
+    
+  }
+  #bemVindo{
+    background: linear-gradient(red, orange, yellow, white);
+    padding-top:100px;
+    padding-bottom:40px;
+    
+  }
+  #bemVindo img{
+    border-radius:100px;
+  }
+  #Biografia p{
+    text-align:justify;
+    margin-left:80px;
+    margin-right:80px;
+  }
+  .menu{
+    list-style: none;
+    background-color: rgb(255, 111, 0);
+    opacity: 80%;
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+
+  }
+  .menu li{
+    float: left;
+    padding: 10px;
+  }
+
+.menu li a{
+  text-decoration: none;
+  color:white;
+}
+.menu li a:hover{
+  font-weight: bold;
+}
+
+  iframe{
+    width:1000px;
+    height: 400px;
+  }
+  section{
+    margin-bottom: 100px;
+  }
+  section h2{
+    text-decoration: underline;
+    text-underline-offset: 6px;
+  }
